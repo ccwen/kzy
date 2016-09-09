@@ -1,0 +1,16 @@
+# kzy
+Ksana Ziyin 2016
+
+use ksana model not using flux
+use KDB to store glyphwiki ,chise data, sinica IDS decompose.
+unicode variant.
+
+part + stroke
+has tag
+link to 小學堂, link to kangxizidian
+show sound, page number of swjz
+import 萌典
+import 古漢語字典
+下載 搬回家
+整合無限組字 無editor ，每次只產生一個字 (並用部件序找到可能字庫已有的字)
+資料來源..日本..
